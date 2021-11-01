@@ -65,7 +65,6 @@ function spawnStone(){
 
   stones.scale = 0.4;
 
-  stones.x = random(0,500);
   }
 }
 
