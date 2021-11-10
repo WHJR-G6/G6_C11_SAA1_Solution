@@ -15,6 +15,7 @@ platform4 = loadImage("images/platform4.png")
 platform5 = loadImage("images/platform5.png")
 platform6 = loadImage("images/platform6.png")
 bg = loadImage('images/bg.png');
+  stone_image = loadImage("images/stone.PNG")
 
 }
 
