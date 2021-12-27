@@ -104,6 +104,15 @@ function spawnPlatform(){
 
 
  
+function spawnStones(){
+
+	var stone = createSprite(150,0,50,50);
+
+	stone.velocityY = 4;
+
+	stone.scale = 0.6;
+
+}
 
 
 
